@@ -10,8 +10,7 @@ endif ()
 
 find_package(CURL REQUIRED)
 
-add_executable(
-        Github_Auto_Follows
+add_executable(Github_Auto_Follows
         "main.cpp"
         "Base64.cpp"
         "HTTP Request.cpp"
@@ -24,4 +23,6 @@ add_executable(
         "include/User URL.h"
 )
 
-target_link_libraries(main PRIVATE CURL::libcurl)
+target_link_libraries(main PRIVATE
+        CURL::libcurl
+)
