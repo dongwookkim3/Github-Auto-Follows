@@ -1,0 +1,8 @@
+{
+  "name": "Github_Auto_Follows",
+  "version-string": "0.1",
+  "dependencies": [
+    "curl",
+    "gtest"
+  ]
+}
