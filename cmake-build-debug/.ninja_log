@@ -1,16 +1,11 @@
 # ninja log v5
-5	1144	7279948612328594	CMakeFiles/Github_Auto_Follows.dir/main.cpp.obj	5fe5f464d56e05ef
-0	271	7280794969475486	build.ninja	3c7e735c7ed609da
-19	755	7273825195420082	CMakeFiles/Github_Auto_Follows.dir/information.cpp.obj	b86bb24133c0d3db
-3	44	7272131712004358	CMakeFiles/Github_Auto_Follows.dir/python_change_test_code.cpp.obj	2dd538e77c398da
-1145	1314	7279948613981087	Github_Auto_Follows.exe	a4da969734f9be74
-21	833	7273890386047348	CMakeFiles/Github_Auto_Follows.dir/Information_Input.cpp.obj	d1143e1f13827fee
-5	695	7273901429172313	CMakeFiles/Github_Auto_Follows.dir/Sieve_Information.cpp.obj	182d74a3f7e7eea1
-6	736	7274723009579645	CMakeFiles/Github_Auto_Follows.dir/Practice_File/Information_Input.cpp.obj	d8236487c580bc8
-11	489	7275575914175627	CMakeFiles/Github_Auto_Follows.dir/Practice_File/Sieve_Information.cpp.obj	b7d67045be7a943a
-9	556	7274751144978505	CMakeFiles/Github_Auto_Follows.dir/Practice_File/Base64_Encodeing.cpp.obj	dfaad0726e447638
-80	1183	7279575294037073	CMakeFiles/Github_Auto_Follows.dir/Practice_File/Base64.cpp.obj	3718f98c8f77c27
-69	1189	7279575294136805	CMakeFiles/Github_Auto_Follows.dir/Practice_File/HTTP_Request.cpp.obj	a711899b31619627
-1	276	7280794969475486	build.ninja	3c7e735c7ed609da
-5	1100	7280794981799392	CMakeFiles/Github_Auto_Follows.dir/main.cpp.obj	5fe5f464d56e05ef
-1100	1384	7280794984602365	Github_Auto_Follows.exe	a4da969734f9be74
+1	185	7303252061087866	build.ninja	3c7e735c7ed609da
+21	2097	7303240705232839	CMakeFiles/Github_Auto_Follows.dir/main.cpp.obj	5fe5f464d56e05ef
+2097	4628	7303240711555342	Github_Auto_Follows.exe	5ad8941849f23571
+85	1936	7303240703646451	CMakeFiles/Github_Auto_Follows.dir/HTTP_Request.cpp.obj	399e14cc7a661324
+70	1930	7303240703586240	CMakeFiles/Github_Auto_Follows.dir/Sieve_Information.cpp.obj	182d74a3f7e7eea1
+75	1971	7303240704009772	CMakeFiles/Github_Auto_Follows.dir/Information_Input.cpp.obj	d1143e1f13827fee
+80	1929	7303240703559035	CMakeFiles/Github_Auto_Follows.dir/Base64.cpp.obj	5e402a0f498dffff
+3	310	7303252061087866	build.ninja	3c7e735c7ed609da
+5	1347	7303252076124091	CMakeFiles/Github_Auto_Follows.dir/main.cpp.obj	5fe5f464d56e05ef
+1347	2189	7303252077822856	Github_Auto_Follows.exe	5ad8941849f23571

@@ -1,3 +1,0 @@
-C:/Users/dongw/CLionProjects/Github-Auto-Follows/cmake-build-debug/CMakeFiles/Github_Auto_Follows.dir
-C:/Users/dongw/CLionProjects/Github-Auto-Follows/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dongw/CLionProjects/Github-Auto-Follows/cmake-build-debug/CMakeFiles/rebuild_cache.dir

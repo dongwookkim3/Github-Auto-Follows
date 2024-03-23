@@ -1,15 +1,16 @@
 #include <iostream>
 #include <string>
-#include "../Header File/Information Input.h"
-#include "../Header File/Sieve Information.h"
-#include "../Header File/Base64.h"
-#include "../Header File/HTTP Request.h"
-#include "../Header File/User URL.h"
+#include "include/Information Input.h"
+#include "include/Sieve Information.h"
+#include "include/Base64.h"
+#include "include/HTTP Request.h"
+#include "include/User URL.h"
+
 #define Information_Size 6
 
 using namespace std;
 
-int main(void) {
+int main() {
     User_Information User;
     User_URL User_URL;
     string Information[Information_Size];
