@@ -1,0 +1,2 @@
+Failed to load manifest from directory C:\Users\dongw\CLionProjects\Github-Auto-Follows
+try_read_contents("C:\Users\dongw\CLionProjects\Github-Auto-Follows\vcpkg.json"): no such file or directorynote: updating vcpkg by rerunning bootstrap-vcpkg may resolve this failure.

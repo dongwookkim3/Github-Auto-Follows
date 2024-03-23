@@ -1,8 +1,8 @@
 "C:\Program Files\JetBrains\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\dongw\CLionProjects\Github-Auto-Follows -B C:\Users\dongw\CLionProjects\Github-Auto-Follows\cmake-build-debug
-CMake Error at C:/Users/dongw/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake:899 (message):
-  Could not find .vcpkg-root
+CMake Error at C:/Program Files/JetBrains/CLion 2023.3.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:154 (message):
+  Could not find toolchain file:
+  C:/Users/dongw/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake
 Call Stack (most recent call first):
-  C:/Program Files/JetBrains/CLion 2023.3.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:148 (include)
   CMakeLists.txt:5 (project)
 
 
